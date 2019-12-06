@@ -59,9 +59,9 @@ class Solution(object):
     
     # twoSumOnePassHash
     # Success
-    # Details 
-    # Runtime: 652 ms, faster than 38.67% of Python online submissions for Two Sum.
-    # Memory Usage: 13.2 MB, less than 22.26% of Python online submissions for Two Sum.
+        # Details 
+        # Runtime: 652 ms, faster than 38.67% of Python online submissions for Two Sum.
+        # Memory Usage: 13.2 MB, less than 22.26% of Python online submissions for Two Sum.
     def twoSum(self, nums, target):
         tbl = {}
         for i, e in enumerate(nums):
